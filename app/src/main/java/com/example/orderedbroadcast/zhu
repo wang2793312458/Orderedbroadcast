@@ -1,0 +1,2 @@
+程序效果：点击按钮，两个Receiver接收同一条广播，在logcat中打印出数据（按照Receiver的优先顺序，
+Receiver2先，Receiver1后）
